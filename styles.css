@@ -1,25 +1,26 @@
 ul {
-    text-align: center;
-    padding-top: 10px;
-    padding-left: 30px;
     background-color:aqua;
+    padding: 10px;
 }
 
 li {
     background-color: #F6E3CA;
-    border: #D7C8B6 2px solid;
-    float: left;
-    margin-right: 10px;
-    padding: 0 4px;
+    float: right;
+    margin-right: 50px;
+    border-radius: 5%;
+    padding:  500px, 50px, 50px, 50px;
   }
 
-header {
+
+nav {
     background-color: #FADBD8;
     margin-top: 10px;
-    border-radius: 10% #fff;
-
+    margin-bottom: 10px;
 }
-
+form {
+    position: fixed;
+    padding: 10px;
+}
 #buscar:hover {
     
     background-color:#FADBD8;
