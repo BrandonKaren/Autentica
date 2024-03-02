@@ -1,13 +1,26 @@
-h4 {
-    display: inline-block;
-
+ul {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color:aqua;
 }
 
+li {
+    background-color: #F6E3CA;
+    border: #D7C8B6 2px solid;
+    float: left;
+    margin-right: 10px;
+    padding: 0 4px;
+  }
 
 header {
     background-color: #FADBD8;
-
     margin-top: 10px;
-    border-radius: 10%;
+    border-radius: 10% #fff;
 
+}
+
+#buscar:hover {
+    
+    background-color:#FADBD8;
 }
